@@ -1,0 +1,196 @@
+{
+	"products": [
+		{
+			"id": "1",
+			"title": "iPhone 9",
+			"description": "An apple mobile which is nothing like apple",
+			"price": 549,
+			"rating": 4.69,
+			"thumbnail": "https://picsum.photos/seed/iphone9/800/600"
+		},
+		{
+			"id": "2",
+			"title": "iPhone X",
+			"description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+			"price": 899,
+			"rating": 4.44,
+			"thumbnail": "https://picsum.photos/seed/iphoneX/800/600"
+		},
+		{
+			"id": "3",
+			"title": "Samsung Galaxy S21",
+			"description": "Samsung Galaxy S21 Ultra 5G with pro-grade camera",
+			"price": 999,
+			"rating": 4.6,
+			"thumbnail": "https://picsum.photos/seed/galaxyS21/800/600"
+		},
+		{
+			"id": "4",
+			"title": "Huawei P30",
+			"description": "Huawei’s re-badged P30 Pro New Edition in a sleek design.",
+			"price": 499,
+			"rating": 4.09,
+			"thumbnail": "https://picsum.photos/seed/huaweiP30/800/600"
+		},
+		{
+			"id": "5",
+			"title": "Sony Xperia 5 II",
+			"description": "Sony's new Xperia smartphone with incredible photography capabilities.",
+			"price": 950,
+			"rating": 4.35,
+			"thumbnail": "https://picsum.photos/seed/xperia5/800/600"
+		},
+		{
+			"id": "6",
+			"title": "MacBook Pro",
+			"description": "Apple MacBook Pro 2021 with advanced display and performance.",
+			"price": 1749,
+			"rating": 4.57,
+			"thumbnail": "https://picsum.photos/seed/macbookpro/800/600"
+		},
+		{
+			"id": "7",
+			"title": "Samsung Galaxy Book",
+			"description": "Samsung Galaxy Book with Intel Lakefield Chip, 8GB of RAM",
+			"price": 1499,
+			"rating": 4.25,
+			"thumbnail": "https://picsum.photos/seed/galaxybook/800/600"
+		},
+		{
+			"id": "8",
+			"title": "Microsoft Surface Laptop 4",
+			"description": "Stylish and fast. Stand out with Studio Mics and HD video calls.",
+			"price": 1499,
+			"rating": 4.43,
+			"thumbnail": "https://picsum.photos/seed/surface4/800/600"
+		},
+		{
+			"id": "9",
+			"title": "Infinix INBOOK",
+			"description": "Infinix Inbook X1 with Intel i3 10th 8GB RAM, 256GB storage",
+			"price": 1099,
+			"rating": 4.54,
+			"thumbnail": "https://picsum.photos/seed/inbook/800/600"
+		},
+		{
+			"id": "10",
+			"title": "HP Pavilion 15",
+			"description": "HP Pavilion 15 Gaming Laptop with powerful GTX graphics.",
+			"price": 1099,
+			"rating": 4.43,
+			"thumbnail": "https://picsum.photos/seed/pavilion15/800/600"
+		},
+		{
+			"id": "11",
+			"title": "Acer Aspire 5",
+			"description": "Acer Aspire 5 with AMD Ryzen and Full HD display.",
+			"price": 649,
+			"rating": 4.21,
+			"thumbnail": "https://picsum.photos/seed/aspire5/800/600"
+		},
+		{
+			"id": "12",
+			"title": "Lenovo IdeaPad 3",
+			"description": "Lenovo IdeaPad 3 with Windows 11 Home and touch screen.",
+			"price": 599,
+			"rating": 4.2,
+			"thumbnail": "https://picsum.photos/seed/ideapad3/800/600"
+		},
+		{
+			"id": "13",
+			"title": "Dell Inspiron 15",
+			"description": "Dell Inspiron with 11th Gen Intel Core processor.",
+			"price": 699,
+			"rating": 4.12,
+			"thumbnail": "https://picsum.photos/seed/inspiron15/800/600"
+		},
+		{
+			"id": "14",
+			"title": "Google Pixel 5",
+			"description": "Google's flagship smartphone with Night Sight mode.",
+			"price": 699,
+			"rating": 4.5,
+			"thumbnail": "https://picsum.photos/seed/pixel5/800/600"
+		},
+		{
+			"id": "15",
+			"title": "OnePlus 9",
+			"description": "OnePlus 9 5G with Hasselblad Camera for Mobile.",
+			"price": 729,
+			"rating": 4.6,
+			"thumbnail": "https://picsum.photos/seed/oneplus9/800/600"
+		},
+		{
+			"id": "16",
+			"title": "Vivo X60 Pro",
+			"description": "Vivo X60 Pro with Gimbal Stabilization 2.0.",
+			"price": 799,
+			"rating": 4.35,
+			"thumbnail": "https://picsum.photos/seed/x60pro/800/600"
+		},
+		{
+			"id": "17",
+			"title": "Nokia 8.3",
+			"description": "Nokia 8.3 5G, global 5G connectivity with PureView camera.",
+			"price": 649,
+			"rating": 4.15,
+			"thumbnail": "https://picsum.photos/seed/nokia83/800/600"
+		},
+		{
+			"id": "18",
+			"title": "Asus Zenfone 8",
+			"description": "Compact and powerful Asus Zenfone 8 with Snapdragon 888.",
+			"price": 599,
+			"rating": 4.3,
+			"thumbnail": "https://picsum.photos/seed/zenfone8/800/600"
+		},
+		{
+			"id": "19",
+			"title": "LG Velvet",
+			"description": "LG Velvet with dual-screen accessory and great design.",
+			"price": 599,
+			"rating": 4.28,
+			"thumbnail": "https://picsum.photos/seed/lgvelvet/800/600"
+		},
+		{
+			"id": "20",
+			"title": "Motorola Edge 20",
+			"description": "Motorola Edge 20 with 144Hz display and 108MP camera.",
+			"price": 799,
+			"rating": 4.33,
+			"thumbnail": "https://picsum.photos/seed/edge20/800/600"
+		},
+		{
+			"id": "21",
+			"title": "Realme GT",
+			"description": "Realme GT with Qualcomm Snapdragon 888.",
+			"price": 479,
+			"rating": 4.3,
+			"thumbnail": "https://picsum.photos/seed/realmegt/800/600"
+		},
+		{
+			"id": "22",
+			"title": "Oppo Find X3",
+			"description": "Oppo Find X3 Pro with microlens camera and 10-bit color.",
+			"price": 1149,
+			"rating": 4.7,
+			"thumbnail": "https://picsum.photos/seed/findx3/800/600"
+		},
+		{
+			"id": "23",
+			"title": "Black Shark 4",
+			"description": "Gaming phone with dual triggers and powerful Snapdragon.",
+			"price": 499,
+			"rating": 4.4,
+			"thumbnail": "https://picsum.photos/seed/blackshark4/800/600"
+		},
+		{
+			"id": "24",
+			"title": "Redmi Note 10",
+			"description": "Xiaomi Redmi Note 10 with AMOLED display and 5000mAh battery.",
+			"price": 199,
+			"rating": 4.5,
+			"thumbnail": "https://picsum.photos/seed/note10/800/600"
+		}
+	]
+}

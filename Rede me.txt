@@ -1,0 +1,2 @@
+after downloading please install 
+(axios,react-Query,Tanstack-dev-tool)
